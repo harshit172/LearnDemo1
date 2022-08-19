@@ -5,8 +5,8 @@ let name1 = 'harshit11';
 console.log(name1);
 
 let person = {
-    fname : 'first',
-    lname : 'lname'
+    fname : 'first1',
+    lname : 'lname1'
 
 }
 
